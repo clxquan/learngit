@@ -6,3 +6,4 @@ Git create dev branch
 create ss and cCd
 Creating a new branch is quick.
 Connecting more git remote.
+Connecting gitee hub success!!
