@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git create dev branch
 create ss and cCd
 Creating a new branch is quick.
+Connecting more git remote.
